@@ -5,3 +5,5 @@
 
 # ETC
 .venv/
+venv/
+__pycache__
